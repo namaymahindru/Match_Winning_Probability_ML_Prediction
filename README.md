@@ -3,7 +3,7 @@
 <p>Tech stack involved is python,streamlit and python.</p>
 <!-- <img src="C:\Users\Asus\OneDrive\Pictures\Screenshots\Screenshot (1109).png" alt="This is a screenshort of the web-app i made"/> -->
 
-![Screenshort of Web-App-Page I made](![Screenshot (1109)(https://github.com/namaymahindru/Match_Winning_Probability_ML_Prediction/assets/155489911/4fccc679-e75b-4af0-9c97-3bd8ee861615)
+![Screenshort of Web app page I made(![Screenshot (1109)](https://github.com/namaymahindru/Match_Winning_Probability_ML_Prediction/assets/155489911/38f28a67-9c9a-4264-9f81-9be5a483bd1a)
 )
 
       
